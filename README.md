@@ -84,9 +84,9 @@ class CountriesSpider(scrapy.Spider):
 
 # Example data with json and html format
 
-![Screen Shot 2021-07-10 at 10.51.05 PM](/Users/xinchen/Desktop/Screen Shot 2021-07-10 at 10.51.05 PM.png)
+![Screen Shot 2021-07-10 at 10.51.05 PM](https://github.com/xchengood/myPicture/blob/main/Screen%20Shot%202021-07-10%20at%2010.51.25%20PM.png)
 
-![Screen Shot 2021-07-10 at 10.51.25 PM](/Users/xinchen/Desktop/Screen Shot 2021-07-10 at 10.51.25 PM.png)
+![Screen Shot 2021-07-10 at 10.51.25 PM](https://github.com/xchengood/myPicture/blob/main/Screen%20Shot%202021-07-10%20at%2010.51.05%20PM.png)
 
 # License
 MIT License
